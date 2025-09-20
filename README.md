@@ -1,27 +1,15 @@
-
-# Beauty Service Booking Page
-
-Современное Next.js приложение для бронирования услуг красоты с пошаговым процессом бронирования.
-
-Оригинальный дизайн доступен по ссылке: https://www.figma.com/design/3Np6PbodTPsWhaDYnYB3vg/Beauty-Service-Booking-Page
-
-## Возможности
-
-- Выбор услуг
-- Выбор мастера
-- Бронирование времени
-- Аутентификация пользователя
-- Подтверждение бронирования
-- Интеграция с календарем
+# Maetry Booking Page
 
 ## Технологический стек
 
-- Next.js 14
-- React 18
-- TypeScript
-- Tailwind CSS
-- Radix UI
-- Lucide React
+- **Next.js 14** - React фреймворк с App Router
+- **React 18** - UI библиотека
+- **TypeScript** - типизированный JavaScript
+- **Tailwind CSS** - utility-first CSS фреймворк
+- **Radix UI** - доступные headless компоненты
+- **Lucide React** - иконки
+- **PostCSS** - обработка CSS
+- **ESLint** - линтер кода
 
 ## Запуск проекта
 
@@ -43,10 +31,7 @@ npm run dev
 npm run build
 ```
 
-Собранные файлы будут в директории `.next`.
-
 ## Дополнительные команды
 
 - `npm run start` - запуск продакшен сервера
 - `npm run lint` - проверка кода линтером
-  # portal-web
